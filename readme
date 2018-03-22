@@ -1,0 +1,5 @@
+In:
+    1. a ttf font
+    2. a weight property i, a positive integer
+    3. resolution: how big the font is, in pixel
+Out: a weighted ttf pixel font
