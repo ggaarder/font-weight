@@ -1,7 +1,7 @@
-Is there an algorithm to bold an outline font?
+Is there an algorithm to bold an outline font? What is it?
 
 One of my friend got a pretty pretty Chinese hand-writing font. However, the font has no bold version, since it is handwritten. And I would like to help generate a bold one automatically by code.
 
 I searched the Internet but didn't find any materials about it. My friend told me that his Kindle could "bold" that font automatically by setting "contrast". So I tried to firstly convert the outline font to bitmap, then change the contrast of the glyphs one by one, and finally output a bitmap "bolded" font. Everything went well except the processed font is aliased, i.e. looks blocky, since that the bitmaps is binary images, i.e. there are no gray pixels. But I can't find a popular font type that supports bitmap plus gray pixels.
 
-So, is there an algorithm to bold an outline font?
+So, is there an algorithm to bold an outline font? What is it?
